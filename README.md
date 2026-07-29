@@ -19,18 +19,13 @@
 ## 🚀 About Me
 
 # 🚀 About Me
-
-🔭 I’m currently working on  
-• Task Manager Web Application  
-• Employee monitoring system with face detection  
 🎓 B.Tech student passionate about **Software Development, Artificial Intelligence, and Open Source**.
 
-🌱 I’m currently learning  
-• DevOps  
+🌱 I’m currently learning
 • Artificial Intelligence  
 • Advanced Data Structures and Algorithms  
 💡 **Interests:**  
-⚡ Competitive Programming | 🤖 Artificial Intelligence | 🌐 Web Development | ⚙️ DevOps
+⚡ Competitive Programming | 🤖 Artificial Intelligence | 🌐 Web Development
 
 👯 I’m looking to collaborate on  
 • Open Source projects  
@@ -46,7 +41,7 @@
 • Data Structures & Algorithms  
 • Web Development  
 📚 **Currently Learning:**  
-DevOps • Artificial Intelligence • Advanced Data Structures & Algorithms
+ Artificial Intelligence • Advanced Data Structures & Algorithms
 
 ⚡ Fun fact  
 • I enjoy solving challenging coding problems and building real-world projects.
