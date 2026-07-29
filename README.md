@@ -48,17 +48,7 @@
 🤝 **Looking to Collaborate On:**  
 Open Source Projects • AI/ML Projects • Developer Tools
 
----
 
-<p align="center">
-<img src="https://img.shields.io/badge/CodeChef-2★-brown"/>
-<img src="https://img.shields.io/badge/CodeChef-3★-brown"/>
-<img src="https://img.shields.io/badge/HackerRank-5★-green"/>
-<img src="https://img.shields.io/badge/LeetCode-1518%20Rating-orange"/>
-<img src="https://img.shields.io/badge/LeetCode-1718%20Rating-orange"/>
-</p>
-
----
 
 # 💻 Tech Stack
 # Tech Stack
