@@ -1,135 +1,171 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Swayam%20Chaurasiya&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-</p>
+<!-- ========================================= -->
+<!-- Hero Banner -->
+<!-- ========================================= -->
 
-<h1 align="center">Hi 👋, I'm Swayam Chaurasiya</h1>
-<h1 align="center">Hi, I'm Swayam Chaurasiya</h1>
-<h3 align="center">B.Tech Student | Competitive Programmer | Open Source Enthusiast</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:2563EB,50:4F46E5,100:7C3AED&text=Swayam%20Chaurasiya&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Generative%20AI%20Enthusiast%20%7C%20Software%20Engineer%20in%20Progress&descAlignY=60&descSize=20"/>
+</div>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;Competitive+Programmer;Open+Source+Learner;Future+AI+Engineer"/>
-</p>
+<!-- ========================================= -->
+<!-- Animated Introduction -->
+<!-- ========================================= -->
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=s_manipratap&label=Profile%20Views&color=blue&style=flat"/>
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=manipratapsingh1&label=Profile%20Views&color=blue&style=flat"/>
-</p>
+<div align="center">
 
----
-## 🚀 About Me
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Swayam+Chaurasia;B.Tech+Computer+Science+Student;Full-Stack+Developer;Learning+Generative+AI+%26+LLMs;Building+Scalable+Software+Solutions;Always+Learning.+Always+Building." />
 
-# 🚀 About Me
-🎓 B.Tech student passionate about **Software Development, Artificial Intelligence, and Open Source**.
+</div>
 
-🌱 I’m currently learning
-• Artificial Intelligence  
-• Advanced Data Structures and Algorithms  
-💡 **Interests:**  
-⚡ Competitive Programming | 🤖 Artificial Intelligence | 🌐 Web Development
+<br>
 
-👯 I’m looking to collaborate on  
-• Open Source projects  
-• AI / Machine Learning projects  
-• Developer tools  
-🛠 **Currently Working On:**  
-• Task Manager Web Application  
-• Employee Monitoring System with Face Detection
+# 👨💻 About Me
 
-💬 Ask me about  
-• C++  
-• Competitive Programming  
-• Data Structures & Algorithms  
-• Web Development  
-📚 **Currently Learning:**  
- Artificial Intelligence • Advanced Data Structures & Algorithms
+- 🎓 **B.Tech in Computer Science & Engineering**
+- 💼 Passionate about **Full-Stack Development**, **Backend Engineering**, and **Generative AI**
+- 🤖 Currently exploring **LLMs, RAG, AI Agents, Vector Databases, and AI Application Development**
+- 🚀 Focused on building **scalable, production-ready applications** with clean architecture
+- 🌱 Continuously improving through **real-world projects, open-source contributions, and problem solving**
+- 🎯 Aspiring to build innovative products that combine **Software Engineering** and **Artificial Intelligence**
 
-⚡ Fun fact  
-• I enjoy solving challenging coding problems and building real-world projects.
-🤝 **Looking to Collaborate On:**  
-Open Source Projects • AI/ML Projects • Developer Tools
+> **"Building software that creates real impact through clean engineering and continuous learning."**
 
 
+<!-- Rainbow Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 # 💻 Tech Stack
-# Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,git,github,linux,vscode"/>
+<div align="center">
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript" />
 </p>
 
----
+### Frontend Development
 
-# 📊 GitHub Stats
-# GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=s_manipratap&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api?username=manipratapsingh1&show_icons=true&theme=tokyonight"/>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,vite" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=s_manipratap&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manipratapsingh1&theme=tokyonight"/>
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s_manipratap&layout=compact&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manipratapsingh1&layout=compact&theme=tokyonight"/>
+### Databases & ORM
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma" />
 </p>
 
----
+### AI / Machine Learning
 
-# 🏆 GitHub Trophies
-# GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=s_manipratap&theme=tokyonight&row=1"/>
-<img src="https://github-profile-trophy.vercel.app/?username=manipratapsingh1&theme=tokyonight&row=1"/>
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 </p>
 
----
+### Tools & Platforms
 
-# 📈 GitHub Activity Graph
-# GitHub Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=s_manipratap&theme=tokyo-night"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manipratapsingh1&theme=tokyo-night"/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma" />
 </p>
 
----
+</div>
 
-# 💡 Random Dev Quote
-# Connect With Me
 
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+<!-- Rainbow Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
----
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<!-- GitHub Stats + Top Languages -->
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SwayamChaurasiya486&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwayamChaurasiya486&layout=compact&theme=transparent&hide_border=true&langs_count=8"/>
+
+<br><br>
+
+<!-- GitHub Streak -->
+
+<img width="95%" src="https://streak-stats.demolab.com?user=SwayamChaurasiya486&theme=transparent&hide_border=true"/>
+
+<br><br>
+
+<!-- Contribution Graph -->
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SwayamChaurasiya486&theme=github-compact&hide_border=true"/>
+
+<br><br>
+
+<!-- Profile Summary Cards -->
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SwayamChaurasiya486&theme=github_dark"/>
+
+<br><br>
+
+<!-- Trophy -->
+
+<img src="https://github-profile-trophy.vercel.app/?username=SwayamChaurasiya486&theme=algolia&no-frame=true&no-bg=true&row=1&column=7"/>
+
+</div>
+
+
+
+<!-- Rainbow Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+
+
 
 # 🐍 Contribution Snake
 
+<!-- GitHub Snake -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/SwayamChaurasiya486/Ayush3941/output/github-snake-dark.svg" alt="GitHub Snake" width="100%" />
 </p>
+</div>
 
----
 
-# 🌐 Connect With Me
+<!-- Rainbow Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
-<p align="center">
-<a href="https://github.com/s_manipratap">
-<a href="https://github.com/manipratapsingh1">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-<a href="#">
 
-<a href="https://linkedin.com/in/mani-pratap-singh-a16846333">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-<a href="#">
-<img src="https://skillicons.dev/icons?i=twitter"/>
-</a>
+# 🏆 GitHub Trophies
 
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SwayamChaurasiya486&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" />
+
+</div>
+
+
+<!-- Rainbow Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+
+
+
+# ✍️ Random Dev Quote
+
+<div align="center">
+  <div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+</div>
+
+
+
+<!-- Footer -->
+
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563EB,50:4F46E5,100:7C3AED"
+  />
+</div>
+
+
+
