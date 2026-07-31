@@ -3,7 +3,7 @@
 <!-- ========================================= -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:2563EB,50:4F46E5,100:7C3AED&text=Swayam%20Chaurasiya&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Generative%20AI%20Enthusiast%20%7C%20Software%20Engineer%20in%20Progress&descAlignY=60&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:2563EB,50:4F46E5,100:7C3AED&text=Swayam%20Chaurasiya&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Software%20Engineer%20in%20Progress&descAlignY=60&descSize=20"/>
 </div>
 
 <!-- ========================================= -->
@@ -124,9 +124,10 @@
 
 # 🐍 Contribution Snake
 
+<div align="center">
 <!-- GitHub Snake -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SwayamChaurasiya486/Ayush3941/output/github-snake-dark.svg" alt="GitHub Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/SwayamChaurasiya486/SwayamChaurasiya486/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" width="100%" />
 </p>
 </div>
 
@@ -147,6 +148,29 @@
 <!-- Rainbow Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
+
+# 🤝 Connect with Me
+
+<!-- Original Contact Table -->
+<table align="center">
+  <tr>
+    <td><strong>📩 Email:</strong></td>
+    <td><a href="mailto:swayamindrapl@gmail.com">swayamindrapal@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td><strong>💼 LinkedIn:</strong></td>
+    <td><a href="https://www.linkedin.com/in/swayam-chaurasiya-b5926829a/">linkedin.com/in/swayam-chaurasiya-b5926829a/</a></td>
+  </tr>
+  <tr>
+    <td><strong>💼 Leetcode:</strong></td>
+    <td><a href="https://leetcode.com/u/swayam__chaurasiya/">leetcode.com/in/swayam__chaurasiya/</a></td>
+  </tr>
+
+</table>
+
+
+<!-- Rainbow Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 
 # ✍️ Random Dev Quote
